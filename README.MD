@@ -35,8 +35,8 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [ x] Show a `Toast` or `Snackbar` when an item is clicked
+- [ x] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
