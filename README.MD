@@ -46,7 +46,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/ba-00001/MortgageCalculatorU4/blob/master/AND101.PROJECT4.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/ba-00001/RandomAPIImagesPart2P6/blob/main/AND101.PROJECT6.gif' title='Video Demo' width='' alt='Video Demo' />
+
+https://github.com/ba-00001/RandomAPIImagesPart2P6/blob/main/AND101.PROJECT6.gif
 
 GIF created with **your chosen GIF tool**
 - [ScreenToGif](https://www.screentogif.com/) for Windows
