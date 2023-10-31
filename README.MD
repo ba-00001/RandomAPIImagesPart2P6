@@ -2,7 +2,7 @@
 
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-Submitted by: **IRVING BAZURTO**
+Submitted by: **BRIAN BAZURTO**
 
 Time spent: **20** hours spent in total
 
@@ -64,7 +64,7 @@ Upon launching the app, users can instantly view a collection of randomly fetche
 
 ## License
 
-Copyright **2023** **IRVING BAZURTO**
+Copyright **2023** **BRIAN BAZURTO**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
